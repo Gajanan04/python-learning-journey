@@ -160,4 +160,17 @@ print("-----------------------------")
 # Branch   :
 # City     :
 # ---------------------------------
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+college = input("Enter your college: ")
+branch = input("Enter your branch: ")
+city = input("Enter your city: ")
+
+print("\n-------- Student Profile --------")
+print("Name     :", name)
+print("Age      :", age)
+print("College  :", college)
+print("Branch   :", branch)
+print("City     :", city)
+print("---------------------------------")
 # -----------------------------------------------------
